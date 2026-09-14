@@ -16,8 +16,16 @@ Loan approval is an important financial decision that can affect both applicants
 
 ## Team Members
 
-- Joud Alwehaib 446202596
-- Rataj Alkharfi 446202675
-- Sultanah Alhabdan 446202751
-- Reema Alhussain 446202767
-- Ghadha Aldablan 446202406
+Joud Alwehaib 446202596
+
+
+Rataj Alkharfi 446202675
+
+
+Sultanah Alhabdan 446202751
+
+
+Reema Alhussain 446202767
+
+
+Ghadha Aldablan 446202406
